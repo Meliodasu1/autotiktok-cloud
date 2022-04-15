@@ -1,0 +1,1 @@
+{"message": "{Fore.YELLOW}V\u00ec tiktok \u0111\u00e3 block api tim video c\u1ee7a ttc. Ch\u00fang t\u00f4i s\u1ebd th\u00f4ng b\u00e1o khi api c\u1ee7a ttc ho\u1ea1t \u0111\u1ed9ng l\u1ea1i b\u00ecnh th\u01b0\u1eddng. N\u00ean b\u00e2y gi\u1edd b\u1ea1n kh\u00f4ng n\u00ean d\u00f9ng ch\u1ebf \u0111\u1ed9 tim c\u1ee7a api ttc"}
