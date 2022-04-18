@@ -1,1 +1,1 @@
-{"message": "th\u00f4ng b\u00e1o: \u1ea9n chrome \u0111ang l\u1ed7i kh\u00e1 n\u1eb7ng vui l\u00f2ng d\u00f9ng t\u1ea1m hi\u1ec7n chrome l\u00ean m\u00e0n h\u00ecnh, ch\u00fang t\u00f4i s\u1ebd fix s\u1edbm \u1ea9n chrome ", "color": "Fore.YELLOW"}
+{"message": "\u1ea8n chrome \u0111\u00e3 \u0111\u01b0\u1ee3c s\u1eeda. Vui l\u00f2ng th\u1eed v\u00e0 cho \u00fd ki\u1ebfn :)", "color": "Fore.YELLOW"}
